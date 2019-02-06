@@ -21,7 +21,11 @@ public class Application extends Frame implements WindowListener {
 		vue.addActionListener(ctrl);
 		this.addWindowListener(this);
 		this.add(vue);
+
 		this.setTitle("lancefoutredgg");
+
+		this.setTitle("oui demort et dakor");
+
 		this.pack();
 		this.setVisible(true);
 		
